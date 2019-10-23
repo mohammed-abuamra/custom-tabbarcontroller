@@ -31,7 +31,7 @@
   *   In  hideTabBarBorder  make the tabBar background Image &  tabBar shadowImage  to empty image .
   *   In  hideTabBarBorder make tabBar clipsToBounds = true.
   
-  
+  5. Add func addcoustmeTabBarView & hideTabBarBorder to viewDidLoad
   
 
 
