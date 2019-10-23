@@ -14,8 +14,10 @@ How to set top left and right corner radius with desired drop shadow in UITabBar
 *   In addcoustmeTabBarView make the coustmeTabBarView frame equal to tabBar frame.
 *   In addcoustmeTabBarView addSubview coustmeTabBarView to view
 *   In addcoustmeTabBarView  bringSubviewToFront  tabBar to view
-*   Add func hideTabBarBorder 
-*   in  hideTabBarBorder 
+
+*   Add func hideTabBarBorder (optional)
+*   In  hideTabBarBorder  make the tabBar background Image &  tabBar shadowImage  to empty image 
+*   In  hideTabBarBorder make tabBar clipsToBounds = true
  
 
 
