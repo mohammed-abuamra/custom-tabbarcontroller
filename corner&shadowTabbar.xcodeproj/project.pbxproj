@@ -14,6 +14,7 @@
 		170BB5BB23603A5600C4C26A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 170BB5B923603A5600C4C26A /* Main.storyboard */; };
 		170BB5BD23603A5700C4C26A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 170BB5BC23603A5700C4C26A /* Assets.xcassets */; };
 		170BB5C023603A5700C4C26A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 170BB5BE23603A5700C4C26A /* LaunchScreen.storyboard */; };
+		170BB5C823603A9600C4C26A /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 170BB5C723603A9600C4C26A /* TabBarController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		170BB5BC23603A5700C4C26A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		170BB5BF23603A5700C4C26A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		170BB5C123603A5700C4C26A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		170BB5C723603A9600C4C26A /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				170BB5B323603A5600C4C26A /* SceneDelegate.swift */,
 				170BB5B523603A5600C4C26A /* FirstViewController.swift */,
 				170BB5B723603A5600C4C26A /* SecondViewController.swift */,
+				170BB5C723603A9600C4C26A /* TabBarController.swift */,
 				170BB5B923603A5600C4C26A /* Main.storyboard */,
 				170BB5BC23603A5700C4C26A /* Assets.xcassets */,
 				170BB5BE23603A5700C4C26A /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				170BB5B823603A5600C4C26A /* SecondViewController.swift in Sources */,
 				170BB5B623603A5600C4C26A /* FirstViewController.swift in Sources */,
 				170BB5B223603A5600C4C26A /* AppDelegate.swift in Sources */,
+				170BB5C823603A9600C4C26A /* TabBarController.swift in Sources */,
 				170BB5B423603A5600C4C26A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
