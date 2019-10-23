@@ -5,8 +5,16 @@
 
 
 
+![alt text](https://github.com/Ghazzway/custom-tabbarcontroller/blob/master/image/Screen%20Shot%202.png
+ "TabBar image")
+ 
+ 
 
 
+***
+
+
+## Steps
 
 1. Add a coustmeTabBarView.
   *  Add the cornerRadius to coustmeTabBarView.
